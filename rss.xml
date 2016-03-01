@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[7SRbeta]]></title>
+        <description><![CDATA[7SRbeta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 23:45:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bibliophilia]]></title>
+            <description><![CDATA[<article><h1>Bibliophilia</h1><p>Cafe Pushkin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3dddabccd04584f56378a57d97cf261ea18eb38.jpg"></article>]]></description>
+            <link>undefinedbibliophilia/index.html</link>
+            <guid isPermaLink="false">9e6a0213-54ad-4ecf-9711-a47b89f4dd96</guid>
+            <pubDate>Tue, 01 Mar 2016 23:45:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
