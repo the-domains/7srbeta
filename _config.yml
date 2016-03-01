@@ -1,0 +1,28 @@
+name: 7SRbeta
+favicon: null
+layout_spectrum: 0.9152027610689402
+typography_spectrum: 0.48865255806595087
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.31023766356520355
+  lightness: 0.9040009379386902
+  saturation: 0.7268217334058136
+  rhythmicContrast: 0.18979090405628085
+purpose: []
