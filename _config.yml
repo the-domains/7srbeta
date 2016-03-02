@@ -1,7 +1,7 @@
 name: 7SRbeta
 favicon: null
-layout_spectrum: 0.9152027610689402
-typography_spectrum: 0.48865255806595087
+layout_spectrum: 0
+typography_spectrum: 0.81331
 cta:
   domain: null
   bucket: null
