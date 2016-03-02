@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T01:47:57.911Z'
-dateModified: '2016-03-02T01:47:30.287Z'
+datePublished: '2016-03-02T01:50:55.082Z'
+dateModified: '2016-03-02T01:50:34.234Z'
 title: Bibliophilia
 author: []
 sourcePath: _posts/2016-03-01-bibliophilia.md
@@ -30,6 +30,10 @@ _An Unguided Tour_
 ![Combria University library](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b26f055fa8982117cb05d0c45415f18ba9a5c70.jpg)
 
 **Biblioteca Joanina of Combria University **_1717**- **__1728_
+
+__
+
+_text text and more text stuff etc.  _
 
 ****
 ![Porto library](https://s3-us-west-2.amazonaws.com/the-grid-img/p/746975c583663da267542223e4038bce67f6320b.jpg)
