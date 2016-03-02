@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T00:33:16.481Z'
-dateModified: '2016-03-02T00:32:48.694Z'
+datePublished: '2016-03-02T01:15:45.238Z'
+dateModified: '2016-03-02T01:15:06.758Z'
 title: Bibliophilia
 author: []
 sourcePath: _posts/2016-03-01-bibliophilia.md
